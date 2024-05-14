@@ -1,11 +1,1 @@
-#include <iostream>
-
-
-
-
-
-int main(void) {
-
- std::cout<< "hello word";
-
-}
+# HOLA MI NOMBRE ES IVAN CACERES
